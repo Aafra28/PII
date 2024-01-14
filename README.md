@@ -1,4 +1,4 @@
-# PIE- Parliamentary Inquiry Insights(Lok Sabha Edition)
+# PII- Parliamentary Inquiry Insights(Lok Sabha Edition)
 ## Overview
 This project aims to analyze questions asked in the Lok Sabha (House of the People - lower house of the Indian Parliament) during its Seventeenth (17th) Session. The dataset includes 4750 questions from November 29, 2021, to December 23, 2021, sourced from PDFs available on the Official Lok Sabha Website.
 
